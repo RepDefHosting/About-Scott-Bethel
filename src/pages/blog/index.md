@@ -3,9 +3,9 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: Mr. Bethel earned his BA in political science and history at
+  Northern Illinois University. He also completed his MS with honors in
+  strategic intelligence at the Defense Intelligence College.
 published: true
 schemaType: WebPage
 header: Blog
