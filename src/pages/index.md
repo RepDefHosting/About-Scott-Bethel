@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: Scott Bethel
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -12,12 +12,13 @@ learnMoreButton:
 subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
-  src: /img/naturehero.png
-  alt: Hero Image for home page
+  src: /img/businesshero2.png
+  alt: "Scott Bethel "
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: "With a leadership background from the US Air Force, Scott
+  Bethel guides Williamsburg, Nashville, and Corpus Christ, Texas, based STR as
+  director of operations. "
 published: true
 profileButton:
   link: /profile
@@ -32,4 +33,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
+With a leadership background from the US Air Force, Scott Bethel guides Williamsburg, Nashville, and Corpus Christ, Texas, based STR as director of operations. He manages over one hundred short-term rental properties. In addition, Scott Bethel oversees operations such as the repair and maintenance of the properties.
