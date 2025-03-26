@@ -50,5 +50,3 @@ When it comes to technical certification training, there are many options availa
 **Conclusion**
 
 In conclusion, getting a technical certificate is great for veterans. Certifications make all people more employable, but they are especially beneficial for veterans who bring a lot of practical skills to the civilian marketplace. Certification training is one way to transition from military life and helps veterans determine a path on what they want to do post-retirement. There are many certification programs available for veterans, and some of the most popular certifications include AWS certifications, CSSP, CDPSE, CISM, CCIE, Certified Ethical Hacker, AWS, and Oracle. If you are a veteran looking for an opportunity to enhance your resume and increase your employment
-
-<!--EndFragment-->
